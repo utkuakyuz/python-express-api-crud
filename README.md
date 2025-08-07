@@ -1,6 +1,6 @@
 # Patient Data API
 
-This project is a very simple REST API application developed for managing Patient data and variant information. It is built using the FastAPI framework.
+This project is a very simple REST API application developed for managing Patient data and variant information. It is built using the FastAPI framework for personel learning purposes.
 
 ## Features
 
